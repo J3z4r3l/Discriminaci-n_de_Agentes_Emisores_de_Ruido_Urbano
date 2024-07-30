@@ -12,12 +12,6 @@ Este proyecto consta de dos componentes principales:
 
 ![Diagrama en Simulink](Simulink_Reto.jpg)
 
-## Archivos del Proyecto
-
-- `Simulink_Reto.jpg`: Imagen del diagrama en Simulink.
-- `proyecto_final.zip`: Archivo comprimido con el código y los archivos necesarios para el proyecto.
-- `raspberrypi_MQTT_final.slx`: Archivo de Simulink para la simulación.
-
 ## Requisitos
 
 - MATLAB con Simulink.
