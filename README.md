@@ -23,3 +23,8 @@ Este proyecto consta de dos componentes principales:
 - MATLAB con Simulink.
 - Raspberry Pi con sistema operativo Raspbian.
 - Conexión a internet para la comunicación MQTT.
+
+##Colaboradores
+Jezarel Mijares
+Berenice 
+Alejandro Armenta
