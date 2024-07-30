@@ -24,7 +24,9 @@ Este proyecto consta de dos componentes principales:
 - Raspberry Pi con sistema operativo Raspbian.
 - Conexión a internet para la comunicación MQTT.
 
-##Colaboradores
+## Colaboradores
 Jezarel Mijares
-Berenice 
+
+Berenice Hernandez
+
 Alejandro Armenta
