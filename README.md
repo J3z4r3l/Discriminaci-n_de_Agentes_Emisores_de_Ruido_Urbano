@@ -10,7 +10,7 @@ Este proyecto consta de dos componentes principales:
 
 ## Imagen del Proyecto y Diagramas
 
-![Diagrama en Simulink](images/Simulink_Reto.jpg)
+![Diagrama en Simulink](Simulink_Reto.jpg)
 
 ## Archivos del Proyecto
 
